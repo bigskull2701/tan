@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .khoi{ 
+        width:250px;
+        height:50px;
+        margin: auto;
+        background-color: aquamarine;
+        padding-top:5px;
+        border-radius: 3px;    
+    }
+    p{
+        color: black;
+
+    }
+    button{
+        background-color: blue;
+    }
+</style>
+
+
+
+</style>
+<body>
+    <div class="khoi">
+    <from name="nhap">
+        <p>nhap n
+        <input name=" n" type="text"/>
+        <input type="button"value ="in" onclick="tamglac"()/>
+        <form>
+        </div>
+        var str:"abcdeghtowjod"
+        var s1=str charAt(1);
+        
+     <h1>hellohowareyoutoday
+</body>
+</html>
